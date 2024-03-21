@@ -4,17 +4,11 @@ I'm a software developer specializing in TypeScript/JavaScript and have experien
 
 I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-profit organization that encourages and inspires women to learn programming. 🌸
 
+
+
+
+
 ## 🚀 Skills
-
-- Programming Languages: TypeScript, JavaScript 📚
-- Front-end: Angular, React, Vue, HTML, CSS (Bootstrap 5) 🎨
-- Back-end: Node.js 🖥️
-- Testing: Jest, Mocha, Lighthouse, Playwright, BrowserStack
-- Version Control: GitHub, GitHub Actions, GitLab, Bitbucket 🔄
-- Cloud Services: AWS (Route 53, CloudFront, CloudFormation, EC2, DynamoDB) ☁️
-- Infrastructure as Code 🏗️
-
-
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -41,6 +35,19 @@ I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="45" height="45"/>
 </p>
+
+
+- Programming Languages: TypeScript, JavaScript 📚
+- Front-end: Angular, React, Vue, HTML, CSS (Bootstrap 5) 🎨
+- Back-end: Node.js 🖥️
+- Testing: Jest, Mocha, Lighthouse, Playwright, BrowserStack
+- Version Control: GitHub, GitHub Actions, GitLab, Bitbucket 🔄
+- Cloud Services: AWS (Route 53, CloudFront, CloudFormation, EC2, DynamoDB) ☁️
+- Infrastructure as Code 🏗️
+
+
+
+
 
 ## 📫 How to reach me
 
