@@ -1,0 +1,26 @@
+name: 🐍 Generate Dino
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    name: 🏗️ Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Checkout Code
+        uses: actions/checkout@v2
+      - name: 🎨 Generate Snake GIF
+        uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: Jagoda11
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - name: 📤 Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: output
+          build_dir: dist
