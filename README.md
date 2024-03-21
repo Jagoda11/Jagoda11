@@ -47,3 +47,5 @@ Feel free to reach out if you have any questions or if you just want to chat abo
 
 
 ![Snake animation](https://github.com/Jagoda11/Jagoda11/blob/output/github-contribution-grid-snake.svg)
+
+![Snake GIF](https://Jagoda11.github.io/Jagoda11/github-contribution-grid-snake.svg)
