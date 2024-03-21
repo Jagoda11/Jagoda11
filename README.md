@@ -45,6 +45,10 @@ Feel free to reach out if you have any questions or if you just want to chat abo
 
 ![Jagoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jagoda11&show_icons=true&theme=radical)
 
-![Snake animation](https://raw.githubusercontent.com/Jagoda11/Jagoda11/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Jagoda11/Jagoda11/blob/output/github-snake.svg)
 
-![Snake GIF](https://Jagoda11.github.io/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jagoda11/Jagoda11/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Jagoda11/Jagoda11/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Jagoda11/Jagoda11/blob/output/github-snake.svg" />
+</picture>
