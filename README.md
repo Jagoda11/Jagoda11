@@ -21,8 +21,7 @@ I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-
 
 Feel free to reach out if you have any questions or if you just want to chat about coding!
 
-- GitHub: [@Jagoda11](https://github.com/Jagoda11) 💌
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jagoda11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagoda-cubrilo-web-developer/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jagoda11/Jagoda11/blob/output/github-snake-dark.svg" />
