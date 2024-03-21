@@ -43,8 +43,6 @@ Feel free to reach out if you have any questions or if you just want to chat abo
 
 - GitHub: [@Jagoda11](https://github.com/Jagoda11) 💌
 
-![Jagoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jagoda11&show_icons=true&theme=radical)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jagoda11/Jagoda11/blob/output/github-snake-dark.svg" />
