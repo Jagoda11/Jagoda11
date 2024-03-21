@@ -9,7 +9,7 @@ I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-
 - Programming Languages: TypeScript, JavaScript 📚
 - Front-end: Angular, React, Vue, HTML, CSS (Bootstrap 5) 🎨
 - Back-end: Node.js 🖥️
-- Testing
+- Testing: Jest, Mocha, Lighthouse, Playwright, BrowserStack
 - Version Control: GitHub, GitHub Actions, GitLab, Bitbucket 🔄
 - Cloud Services: AWS (Route 53, CloudFront, CloudFormation, EC2, DynamoDB) ☁️
 - Infrastructure as Code 🏗️
@@ -34,6 +34,8 @@ I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-
 ![Playwright](https://img.shields.io/badge/-Playwright-00b4b6?style=flat-square&logo=microsoft&logoColor=white)
 ![Lighthouse](https://img.shields.io/badge/-Lighthouse-1A237E?style=flat-square&logo=lighthouse&logoColor=white)
 ![BrowserStack](https://img.shields.io/badge/-BrowserStack-05BD9E?style=flat-square&logo=browserstack&logoColor=white)
+
+
 
 ## 📫 How to reach me
 
