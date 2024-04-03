@@ -16,6 +16,9 @@ I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-
 - Cloud Services: AWS (Route 53, CloudFront, CloudFormation, EC2, DynamoDB) ☁️
 - Infrastructure as Code 🏗️
 
+## 💖 Support
+
+If you appreciate my work and would like to support me, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/Jagoda11). Your support is greatly appreciated and helps me continue my contributions to open source and volunteer work.
 
 ## 📫 How to reach me
 
