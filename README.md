@@ -18,7 +18,9 @@ I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-
 
 ## 💖 Support
 
-If you appreciate my work and would like to support me, consider sponsoring me on [GitHub Sponsors](https://github.com/sponsors/Jagoda11). Your support is greatly appreciated and helps me continue my contributions to open source and volunteer work.
+If you value the impact of my work and wish to amplify its reach, consider joining forces with me through [GitHub Sponsors](https://github.com/sponsors/Jagoda11). Together, we can create a ripple effect in the open-source community, driving innovation and enabling more impactful volunteer work. Your partnership is invaluable in this journey
+
+
 
 ## 📫 How to reach me
 
