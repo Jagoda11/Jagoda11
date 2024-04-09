@@ -1,6 +1,6 @@
 # Hi there, I'm Jagoda 👋
 
-I'm a software developer specializing in TypeScript/JavaScript and have experience working with a variety of technologies and services. I love building things and am always looking for new technologies to learn and apply in my projects. 💻
+I'm a software developer specializing in TypeScript/JavaScript and have experience working with a variety of technologies and services. I love building things and am always looking for new technologies to learn and apply to my projects. 💻
 
 I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-profit organization that encourages and inspires women to learn programming. 🌸
 
@@ -18,7 +18,7 @@ I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-
 
 ## 💖 Support
 
-If you value the impact of my work and wish to amplify its reach, consider joining forces with me through [GitHub Sponsors](https://github.com/sponsors/Jagoda11). Together, we can create a ripple effect in the open-source community, driving innovation and enabling more impactful volunteer work. Your partnership is invaluable in this journey
+If you value the impact of my work and wish to amplify its reach, consider joining forces with me through [GitHub Sponsors](https://github.com/sponsors/Jagoda11). Together, we can create a ripple effect in the open-source community, driving innovation and enabling more impactful volunteer work. Your partnership is invaluable in this journey.🌟
 
 
 
