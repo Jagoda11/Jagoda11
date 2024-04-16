@@ -11,7 +11,7 @@ I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-
 - Programming Languages: TypeScript, JavaScript 📚
 - Front-end: Angular, React, Vue, HTML, CSS (Bootstrap 5) 🎨
 - Back-end: Node.js 🖥️
-- Testing: Jest, Mocha, Lighthouse, Playwright, BrowserStack
+- Testing: Jest, Mocha, Lighthouse, Playwright, BrowserStack🧪
 - Version Control: GitHub, GitHub Actions, GitLab, Bitbucket 🔄
 - Cloud Services: AWS (Route 53, CloudFront, CloudFormation, EC2, DynamoDB) ☁️
 - Infrastructure as Code 🏗️
