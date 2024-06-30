@@ -26,7 +26,8 @@ If you value the impact of my work and wish to amplify its reach, consider joini
 
 Feel free to reach out if you have any questions or if you just want to chat about coding!
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jagoda11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagoda-cubrilo-web-developer/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jagoda11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagoda-cubrilo-web-developer/) [![Medium](https://img.shields.io/badge/Medium-00ab6c?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@jagoda11)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Jagoda11/Jagoda11/blob/output/github-snake-dark.svg" />
