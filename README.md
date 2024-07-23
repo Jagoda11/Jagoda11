@@ -1,3 +1,10 @@
+
+![GitHub Stars](https://img.shields.io/github/stars/jagoda11?style=social&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/jagoda11?style=social&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=jagoda11&color=blue)
+
+
+
 # Hi there, I'm Jagoda 👋
 
 <img align="right" width="150" height="150" src="https://github.com/Jagoda11/Jagoda11/blob/main/Octocats.gif" alt="gif of the various Octocats"></a>
