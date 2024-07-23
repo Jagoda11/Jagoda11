@@ -28,4 +28,9 @@ jobs:
           rss_list: 'https://medium.com/feed/@jagoda11'
           readme_path: './README.md'
         env:
-          GITHUB_TOKEN: ${{ secrets.MEDIUM_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Debug after update
+        run: |
+          echo "Updated README.md"
+          cat README.md
