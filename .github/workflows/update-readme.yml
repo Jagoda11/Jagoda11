@@ -23,18 +23,19 @@ jobs:
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
 
       - name: 📝 Fetch Medium posts and update README
-        uses: imskr/readme-update-actions@v2.1
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          rss_list: 'https://medium.com/feed/@jagoda11'
+          feed_list: 'https://medium.com/feed/@jagoda11'
           readme_path: './README.md'
+          commit_message: 'Update README with latest Medium posts'
+          max_post_count: 5 # Adjust the number of posts as needed
+          disable_sort: false # Set to true if you don't want the posts to be sorted
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 🔀 Commit changes to main
+      - name: 🔀 Commit and Push changes
         run: |
           git add README.md
           git status
-          # Check if there are any changes. If so, commit them.
           git diff --staged --quiet || git commit -m "Update README with latest Medium posts" || echo "No changes to commit."
-          # Push only if the previous command (git commit) was successful.
-          git push origin HEAD:main || echo "No changes to push."
+          git push
