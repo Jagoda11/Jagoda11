@@ -1,6 +1,6 @@
 # Hi there, I'm Jagoda 👋
 
-<img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
+<img align="right" width="150" height="150" src="https://github.com/Jagoda11/Jagoda11/blob/master/My-OctocatsShortest.gif" alt="gif of the various My Octocats I've created"></a>
 
 I'm a software developer specializing in TypeScript/JavaScript and have experience working with a variety of technologies and services. I love building things and am always looking for new technologies to learn and apply to my projects. 💻
 
