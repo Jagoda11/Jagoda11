@@ -20,11 +20,12 @@ jobs:
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
 
       - name: 📝 Fetch Medium posts and update README
-        uses: imskr/readme-update-actions@v2
+        uses: imskr/readme-update-actions@v2.1
         with:
           rss_list: 'https://medium.com/feed/@jagoda11'
           max_post: 4 # optional, default 5
           readme_path: ./README.md
           commit_message: 'Update readme with latest blogs'
         env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MEDIUM_TOKEN: ${{ secrets.MEDIUM_TOKEN }}
