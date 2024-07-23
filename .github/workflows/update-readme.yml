@@ -3,6 +3,9 @@ name: 🚀 Update README with Medium Posts
 on:
   schedule:
     - cron: '0 0 * * 1' # Runs every Monday at midnight
+  push:
+    branches:
+      - main
   workflow_dispatch: # Allows manual triggering
 
 jobs:
@@ -32,3 +35,10 @@ jobs:
         run: |
           echo "Fetched Medium Posts:"
           cat ./README.md
+
+      - name: 🔃 Commit changes
+        if: success()
+        run: |
+          git add README.md
+          git commit -m "Update README with latest Medium posts"
+          git push
