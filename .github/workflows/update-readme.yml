@@ -16,5 +16,5 @@ jobs:
       - name: 📝 Fetch Medium posts and update README
         uses: imskr/readme-update-actions@v2.1
         with:
-          rss_list: 'https://medium.com/feed/@jagoda11'
+          rss_list: 'https://medium.com/@jagoda11'
           max_post: 4 # optional, default 5
