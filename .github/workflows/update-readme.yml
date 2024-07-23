@@ -28,3 +28,7 @@ jobs:
           commit_message: 'Update readme with latest blogs'
         env:
           GITHUB_TOKEN: ${{ secrets.MEDIUM_TOKEN }}
+      - name: 📄 Display Fetched Posts (Debug)
+        run: |
+          echo "Fetched Medium Posts:"
+          cat ./README.md
