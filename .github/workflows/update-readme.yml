@@ -26,3 +26,5 @@ jobs:
         uses: imskr/readme-update-actions@v2.1
         with:
           rss_list: 'https://medium.com/feed/@jagoda11'
+        env:
+          GITHUB_TOKEN: ${{ secrets.MEDIUM_TOKEN }}
