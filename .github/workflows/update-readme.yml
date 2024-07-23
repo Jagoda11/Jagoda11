@@ -11,10 +11,10 @@ jobs:
 
     steps:
       - name: 📂 Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: 📝 Fetch Medium posts and update README
-        uses: imskr/readme-update-actions@v2.1
+        uses: imskr/readme-update-actions@v2
         with:
-          rss_list: 'https://medium.com/@jagoda11'
+          rss_list: 'https://medium.com/feed/@jagoda11'
           max_post: 4 # optional, default 5
