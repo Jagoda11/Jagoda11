@@ -36,6 +36,9 @@ jobs:
           echo "Fetched Medium Posts:"
           cat ./README.md
 
+      - name: 🐈 Display Git Diff
+        run: git diff README.md
+
       - name: 🔃 Commit changes
         if: success()
         run: |
