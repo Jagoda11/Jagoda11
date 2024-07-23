@@ -43,6 +43,9 @@ jobs:
         with:
           ref: output
 
+      - name: Fetch all branches
+        run: git fetch --all
+
       - name: Merge main to output
         run: |
           git merge main --no-edit
