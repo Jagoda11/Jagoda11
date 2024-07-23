@@ -30,7 +30,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Debug after update
+      - name: Commit changes to main
         run: |
-          echo "Updated README.md"
-          cat README.md
+          git add README.md
+          git commit -m "Update README with latest Medium posts"
+          git push
+
+      - name: Checkout output branch
+        uses: actions/checkout@v3
+        with:
+          ref: output
+
+      - name: Merge main to output
+        run: |
+          git merge main --no-edit
+          git push origin output
