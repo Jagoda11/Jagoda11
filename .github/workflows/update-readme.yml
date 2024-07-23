@@ -22,11 +22,6 @@ jobs:
           git config --global user.name "readme-update-bot"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
 
-      - name: 🌐 Fetch RSS feed content (Debug)
-        run: |
-          echo "Fetching RSS feed content for debugging:"
-          curl -s 'https://medium.com/feed/@jagoda11' | tee rss_feed.xml
-
       - name: 📝 Fetch Medium posts and update README
         uses: imskr/readme-update-actions@v2.1
         with:
