@@ -37,16 +37,3 @@ jobs:
           git diff --staged --quiet || git commit -m "Update README with latest Medium posts"
           # Push only if the previous command (git commit) was successful.
           git push || echo "No changes to push."
-
-      - name: Checkout output branch
-        uses: actions/checkout@v3
-        with:
-          ref: output
-
-      - name: Fetch all branches
-        run: git fetch --all
-
-      - name: Merge main to output
-        run: |
-          git merge origin/main --no-edit
-          git push origin output
