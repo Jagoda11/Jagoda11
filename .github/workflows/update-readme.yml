@@ -48,5 +48,5 @@ jobs:
 
       - name: Merge main to output
         run: |
-          git merge main --no-edit
+          git merge origin/main --no-edit
           git push origin output
