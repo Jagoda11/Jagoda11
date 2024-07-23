@@ -8,13 +8,21 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    name: 📝 Update README with Medium Posts
 
     steps:
       - name: 📂 Checkout repository
         uses: actions/checkout@v3
+
+      - name: 🔧 Configure Git
+        run: |
+          git config --global user.name "readme-update-bot"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
 
       - name: 📝 Fetch Medium posts and update README
         uses: imskr/readme-update-actions@v2
         with:
           rss_list: 'https://medium.com/feed/@jagoda11'
           max_post: 4 # optional, default 5
+          readme_path: ./README.md
+          commit_message: 'Update readme with latest blogs'
