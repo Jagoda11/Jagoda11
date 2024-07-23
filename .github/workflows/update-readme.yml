@@ -26,5 +26,6 @@ jobs:
         uses: imskr/readme-update-actions@v2.1
         with:
           rss_list: 'https://medium.com/feed/@jagoda11'
+          readme_path: './README.md'
         env:
           GITHUB_TOKEN: ${{ secrets.MEDIUM_TOKEN }}
