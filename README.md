@@ -22,6 +22,11 @@ If you value the impact of my work and wish to amplify its reach, consider joini
 
 ## Latest Medium Posts ✍️
 <!-- BLOG-POST-LIST:START -->
+- [Mastering VSCode: Essential Extensions and Tips for Peak Productivity](https://code.likeagirl.io/mastering-vscode-essential-extensions-and-tips-for-peak-productivity-92a5852382a9?source=rss-ec5f6d09b0e4------2)
+- [Using GitHub Projects Instead of Redundant Technical Tests](https://medium.com/new-writers-welcome/using-github-projects-instead-of-redundant-technical-tests-10aae4196775?source=rss-ec5f6d09b0e4------2)
+- [Top 20 Google Chrome Extensions Every Developer Should Know About](https://medium.com/@jagoda11/top-20-google-chrome-extensions-every-developer-should-know-about-46134b64b815?source=rss-ec5f6d09b0e4------2)
+- [Deploying a Vue 3 App with Vite, TypeScript, and GitHub Actions to GitHub Pages](https://medium.com/@jagoda11/deploying-a-vue-3-app-with-vite-typescript-and-github-actions-to-github-pages-ac240cdb473e?source=rss-ec5f6d09b0e4------2)
+- [Deploying a React App with TypeScript and GitHub Actions to GitHub Pages](https://medium.com/@jagoda11/deploying-a-react-app-with-typescript-and-github-actions-to-github-pages-93c12d6c6675?source=rss-ec5f6d09b0e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
