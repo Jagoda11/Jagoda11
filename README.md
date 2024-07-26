@@ -29,11 +29,11 @@ If you value the impact of my work and wish to amplify its reach, consider joini
 
 ## Latest Medium Posts ✍️
 <!-- BLOG-POST-LIST:START -->
+- [The Power of Project Templates: Boosting Efficiency in Development](https://code.likeagirl.io/the-power-of-project-templates-boosting-efficiency-in-development-1a61cb6bcdae?source=rss-ec5f6d09b0e4------2)
 - [How to Set Up a Template Repository on GitHub](https://medium.com/new-writers-welcome/how-to-set-up-a-template-repository-on-github-0e7446a46817?source=rss-ec5f6d09b0e4------2)
 - [Mastering Your Terminal: A Step-by-Step Guide to Ultimate Productivity](https://medium.com/womenintechnology/mastering-your-terminal-a-step-by-step-guide-to-ultimate-productivity-313cdcbb0325?source=rss-ec5f6d09b0e4------2)
 - [Mastering VSCode: Essential Extensions and Tips for Peak Productivity](https://code.likeagirl.io/mastering-vscode-essential-extensions-and-tips-for-peak-productivity-92a5852382a9?source=rss-ec5f6d09b0e4------2)
 - [Using GitHub Projects Instead of Redundant Technical Tests](https://medium.com/new-writers-welcome/using-github-projects-instead-of-redundant-technical-tests-10aae4196775?source=rss-ec5f6d09b0e4------2)
-- [Top 20 Google Chrome Extensions Every Developer Should Know About](https://medium.com/@jagoda11/top-20-google-chrome-extensions-every-developer-should-know-about-46134b64b815?source=rss-ec5f6d09b0e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
