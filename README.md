@@ -29,11 +29,11 @@ If you value the impact of my work and wish to amplify its reach, consider joini
 
 ## Latest Medium Posts ✍️
 <!-- BLOG-POST-LIST:START -->
+- [Remove the Hassle: Supercharge Your GitHub README with ChatGPT and GitHub Copilot](https://medium.com/womenintechnology/remove-the-hassle-supercharge-your-github-readme-with-chatgpt-and-github-copilot-cac93a00429f?source=rss-ec5f6d09b0e4------2)
+- [✨ How Can Emojis in the Code Help You Be More Inclusive?✨](https://code.likeagirl.io/how-can-emojis-in-the-code-help-you-be-more-inclusive-2f93421304b3?source=rss-ec5f6d09b0e4------2)
 - [The Power of Project Templates: Boosting Efficiency in Development](https://code.likeagirl.io/the-power-of-project-templates-boosting-efficiency-in-development-1a61cb6bcdae?source=rss-ec5f6d09b0e4------2)
 - [How to Set Up a Template Repository on GitHub](https://medium.com/new-writers-welcome/how-to-set-up-a-template-repository-on-github-0e7446a46817?source=rss-ec5f6d09b0e4------2)
 - [Mastering Your Terminal: A Step-by-Step Guide to Ultimate Productivity](https://medium.com/womenintechnology/mastering-your-terminal-a-step-by-step-guide-to-ultimate-productivity-313cdcbb0325?source=rss-ec5f6d09b0e4------2)
-- [Mastering VSCode: Essential Extensions and Tips for Peak Productivity](https://code.likeagirl.io/mastering-vscode-essential-extensions-and-tips-for-peak-productivity-92a5852382a9?source=rss-ec5f6d09b0e4------2)
-- [Using GitHub Projects Instead of Redundant Technical Tests](https://medium.com/new-writers-welcome/using-github-projects-instead-of-redundant-technical-tests-10aae4196775?source=rss-ec5f6d09b0e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
