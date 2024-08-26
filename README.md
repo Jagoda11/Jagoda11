@@ -2,7 +2,8 @@
 ![GitHub Stars](https://img.shields.io/github/stars/jagoda11?style=social&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/jagoda11?style=social&color=green)
 ![Profile Views](https://komarev.com/ghpvc/?username=jagoda11&color=blue)
-<meta name="google-site-verification" content="wlylwHoxsmZWdVpyKDboagjUdrnQbXuU7segWX_0A7k" />
+<meta name="google-site-verification" content="wlylwHoxsmZWdVpyKDboagjUdrnQbXuU7segWX_0A7k">
+ <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
 
 
 # Hi there, I'm Jagoda 👋
