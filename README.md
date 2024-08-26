@@ -29,11 +29,11 @@ If you value the impact of my work and wish to amplify its reach, consider joini
 
 ## Latest Medium Posts ✍️
 <!-- BLOG-POST-LIST:START -->
+- [Turn Your GitHub Profile into the Ultimate Developer CV](https://javascript.plainenglish.io/turn-your-github-profile-into-the-ultimate-developer-cv-66b58a3796ae?source=rss-ec5f6d09b0e4------2)
 - [The Chronicles of Sam: Uncovering Hidden AWS S3  Storage Classes ☁️](https://code.likeagirl.io/the-chronicles-of-sam-uncovering-hidden-aws-s3-storage-classes-%EF%B8%8F-c10f8aca6a86?source=rss-ec5f6d09b0e4------2)
 - [Remove the Hassle: Supercharge Your GitHub README with ChatGPT and GitHub Copilot](https://medium.com/womenintechnology/remove-the-hassle-supercharge-your-github-readme-with-chatgpt-and-github-copilot-cac93a00429f?source=rss-ec5f6d09b0e4------2)
 - [✨ How Can Emojis in the Code Help You Be More Inclusive?✨](https://code.likeagirl.io/how-can-emojis-in-the-code-help-you-be-more-inclusive-2f93421304b3?source=rss-ec5f6d09b0e4------2)
 - [The Power of Project Templates: Boosting Efficiency in Development](https://code.likeagirl.io/the-power-of-project-templates-boosting-efficiency-in-development-1a61cb6bcdae?source=rss-ec5f6d09b0e4------2)
-- [How to Set Up a Template Repository on GitHub](https://medium.com/new-writers-welcome/how-to-set-up-a-template-repository-on-github-0e7446a46817?source=rss-ec5f6d09b0e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
