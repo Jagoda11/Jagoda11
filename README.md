@@ -5,6 +5,15 @@
 <meta name="google-site-verification" content="wlylwHoxsmZWdVpyKDboagjUdrnQbXuU7segWX_0A7k">
  <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
 
+## 🌸  Let's Start with a Smile!
+
+<p align="center">
+  <div style="transform: scale(1.2); display: inline-block;">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ficanhazdadjoke.com%2F&query=%24..joke&label=Joke&labelColor=ff69b4&color=87cefa" alt="random joke">
+  </div>
+</p>
+
+
 
 # Hi there, I'm Jagoda 👋
 
@@ -13,6 +22,7 @@
 I'm a software developer specializing in TypeScript/JavaScript and have experience working with a variety of technologies and services. I love building things and am always looking for new technologies to learn and apply to my projects. 💻
 
 I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-profit organization that encourages and inspires women to learn programming. 🌸
+
 
 ## 🚀 Skills
 
@@ -23,6 +33,7 @@ I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-
 - Version Control: GitHub, GitHub Actions, GitLab, Bitbucket 🔄
 - Cloud Services: AWS (Route 53, CloudFront, CloudFormation, EC2, DynamoDB) ☁️
 - Infrastructure as Code 🏗️
+
 
 ## 💖 Support
 
