@@ -7,8 +7,8 @@
 
 ## 🌸  Let's Start with a Smile!
 
-<p align="center">
-  <div style="transform: scale(1.2);">
+<p>
+  <div style="transform: scale(1.2); display: inline-block;">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ficanhazdadjoke.com%2F&query=%24..joke&label=Joke&labelColor=ff69b4&color=87cefa" alt="random joke">
   </div>
 </p>
