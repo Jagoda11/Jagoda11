@@ -1,0 +1,41 @@
+name: 🚀 Update README with Medium Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Runs every Monday at midnight
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: 📝 Update README with Medium Posts
+
+    steps:
+      - name: 📂 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🔧 Configure Git
+        run: |
+          git config --global user.name "readme-update-bot"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: 📝 Fetch Medium posts and update README
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: 'https://medium.com/feed/@jagoda11'
+          readme_path: './README.md'
+          commit_message: 'Update README with latest Medium posts'
+          max_post_count: 5 # Adjust the number of posts as needed
+          disable_sort: false # Set to true if you don't want the posts to be sorted
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🔀 Commit and Push changes
+        run: |
+          git add README.md
+          git status
+          git diff --staged --quiet || git commit -m "Update README with latest Medium posts" || echo "No changes to commit."
+          git push
