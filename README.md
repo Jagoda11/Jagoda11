@@ -83,3 +83,14 @@ Feel free to reach out if you have any questions or if you just want to chat abo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="30" height="30"/>
 </p>
+
+## 🌟 My Favorite VS Code Extensions
+
+I’ve curated a list of my go-to VS Code extensions to boost productivity and streamline development. You can install them all at once with a single command:
+
+    curl -s https://gist.githubusercontent.com/Jagoda11/6f5a4e9f63990b532f3e329ba8c6cf61/raw/vscode-extensions.txt | xargs -n 1 code --install-extension
+
+📜 [View the full list here](https://gist.github.com/Jagoda11/6f5a4e9f63990b532f3e329ba8c6cf61).
+
+🎉 Feel free to try them out and let me know if they help improve your workflow! 😊
+
