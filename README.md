@@ -86,11 +86,26 @@ Feel free to reach out if you have any questions or if you just want to chat abo
 
 ## 🌟 My Favorite VS Code Extensions
 
-I’ve curated a list of my go-to VS Code extensions to boost productivity and streamline development. You can install them all at once with a single command:
+I’ve curated a list of my go-to VS Code extensions to boost productivity and streamline development. Install them all at once with this command:
 
-    curl -s https://gist.githubusercontent.com/Jagoda11/6f5a4e9f63990b532f3e329ba8c6cf61/raw/vscode-extensions.txt | xargs -n 1 code --install-extension
+curl -s https://gist.githubusercontent.com/Jagoda11/6f5a4e9f63990b532f3e329ba8c6cf61/raw/vscode-extensions.txt | xargs -n 1 code --install-extension
 
 📜 [View the full list here](https://gist.github.com/Jagoda11/6f5a4e9f63990b532f3e329ba8c6cf61).
 
-🎉 Feel free to try them out and let me know if they help improve your workflow! 😊
+---
+
+## 🌐 Install Chrome Extensions Instantly
+
+Want to set up your Chrome extensions effortlessly? Use this command to open each extension in your browser for installation:
+
+curl -s https://gist.githubusercontent.com/Jagoda11/1f1cea030f7dc5381cd73d395adadf24/raw/chrome-extensions.txt | while IFS= read -r line; do  
+echo "Opening: $line"  
+open "$line"  
+done
+
+💡 **Linux Users**: Replace `open` with `xdg-open` for compatibility.  
+📜 [View the full list of extensions here](https://gist.github.com/Jagoda11/1f1cea030f7dc5381cd73d395adadf24).
+
+🎉 Quickly set up your workspace and enjoy productivity right away! 😊
+
 
