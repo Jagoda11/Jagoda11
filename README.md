@@ -86,37 +86,16 @@ Feel free to reach out if you have any questions or if you just want to chat abo
 
 ## 🌟 My Favorite VS Code Extensions
 
-I’ve curated a list of my go-to VS Code extensions to boost productivity and streamline development. Install them all at once with this command:
-
-```bash
-curl -s https://gist.githubusercontent.com/Jagoda11/6f5a4e9f63990b532f3e329ba8c6cf61/raw/vscode-extensions.txt | xargs -n 1 code --install-extension
-```
+I’ve curated a list of my go-to VS Code extensions to boost productivity and streamline development. And how to install them : 
 
 📜 [View the full list here](https://gist.github.com/Jagoda11/6f5a4e9f63990b532f3e329ba8c6cf61).
 
 ---
 
-## 🌐 Install Chrome Extensions Instantly
+## 🌐 Install My Chrome Extensions Instantly
 
-Want to set up your Chrome extensions effortlessly? Use this command to open each extension in your browser for installation:
+Want to set up my Chrome extensions effortlessly? 
 
-```bash
-#!/bin/zsh
-
-urls=$(curl -s https://gist.githubusercontent.com/Jagoda11/1f1cea030f7dc5381cd73d395adadf24/raw/chrome-extensions.txt)
-urls=("${(@f)urls}")
-
-for url in "${urls[@]}"; do
-    url=$(echo "$url" | xargs)
-    echo "Opening: $url"
-    open -a "Google Chrome" "$url"
-    echo "Press Enter once you've installed the extension to continue..."
-    read -r
-    echo "Moving to the next extension..."
-done
-```
-
-💡 **Linux Users**: Replace `open` with `xdg-open` for compatibility.  
 📜 [View the full list of extensions here](https://gist.github.com/Jagoda11/1f1cea030f7dc5381cd73d395adadf24).
 
 🎉 Quickly set up your workspace and enjoy productivity right away! 😊
