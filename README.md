@@ -36,11 +36,11 @@ If you value the impact of my work and wish to amplify its reach, consider joini
 
 ## Latest Medium Posts ✍️
 <!-- BLOG-POST-LIST:START -->
+- [How to Backup and Share Your VS Code Extensions in Minutes](https://code.likeagirl.io/how-to-backup-and-share-your-vs-code-extensions-in-minutes-a40b004848e4?source=rss-ec5f6d09b0e4------2)
+- [Lost Your Chrome Extensions? Get Them Back Fast!⚙️](https://javascript.plainenglish.io/lost-your-chrome-extensions-get-them-back-fast-%EF%B8%8F-51c22cb2d565?source=rss-ec5f6d09b0e4------2)
 - [Take the Pain Out of npm Updates](https://code.likeagirl.io/take-the-pain-out-of-npm-updates-e559a315fed0?source=rss-ec5f6d09b0e4------2)
 - [Automate Your GitHub Project in 4 Simple Steps](https://javascript.plainenglish.io/automate-your-github-project-in-4-simple-steps-d72c64015d34?source=rss-ec5f6d09b0e4------2)
 - [No More Repo Clutter: Maintenance Hacks with GitHub Actions](https://code.likeagirl.io/no-more-repo-clutter-maintenance-hacks-with-github-actions-ba8a109e175d?source=rss-ec5f6d09b0e4------2)
-- [✨From Ghosted to Glowing: Recycle GitHub Interview Assignments into Job Offers✨](https://code.likeagirl.io/from-ghosted-to-glowing-recycle-github-interview-assignments-into-job-offers-49256428e2b7?source=rss-ec5f6d09b0e4------2)
-- [Turn Your GitHub Profile into the Ultimate Developer CV](https://javascript.plainenglish.io/turn-your-github-profile-into-the-ultimate-developer-cv-66b58a3796ae?source=rss-ec5f6d09b0e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
