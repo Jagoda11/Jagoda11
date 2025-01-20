@@ -36,11 +36,11 @@ If you value the impact of my work and wish to amplify its reach, consider joini
 
 ## Latest Medium Posts ✍️
 <!-- BLOG-POST-LIST:START -->
+- [The Chronicles of Sam: Finally Letting Go of Custom Login Hell with AWS Cognito ☁️](https://javascript.plainenglish.io/the-chronicles-of-sam-finally-letting-go-of-custom-login-hell-with-aws-cognito-%EF%B8%8F-644473433624?source=rss-ec5f6d09b0e4------2)
 - [How to Backup and Share Your VS Code Extensions in Minutes](https://code.likeagirl.io/how-to-backup-and-share-your-vs-code-extensions-in-minutes-a40b004848e4?source=rss-ec5f6d09b0e4------2)
 - [Lost Your Chrome Extensions? Get Them Back Fast!⚙️](https://javascript.plainenglish.io/lost-your-chrome-extensions-get-them-back-fast-%EF%B8%8F-51c22cb2d565?source=rss-ec5f6d09b0e4------2)
 - [Take the Pain Out of npm Updates](https://code.likeagirl.io/take-the-pain-out-of-npm-updates-e559a315fed0?source=rss-ec5f6d09b0e4------2)
 - [Automate Your GitHub Project in 4 Simple Steps](https://javascript.plainenglish.io/automate-your-github-project-in-4-simple-steps-d72c64015d34?source=rss-ec5f6d09b0e4------2)
-- [No More Repo Clutter: Maintenance Hacks with GitHub Actions](https://code.likeagirl.io/no-more-repo-clutter-maintenance-hacks-with-github-actions-ba8a109e175d?source=rss-ec5f6d09b0e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
