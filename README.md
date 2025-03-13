@@ -4,6 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jagoda11&color=blue)
 <meta name="google-site-verification" content="wlylwHoxsmZWdVpyKDboagjUdrnQbXuU7segWX_0A7k">
  <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
+[![AWS Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-orange)](https://aws.amazon.com/developer/community/community-builders/)
 
 ## 🌸  Let's Start with a Smile!
 
@@ -16,10 +17,7 @@
 
 I'm a software developer specializing in TypeScript/JavaScript and have experience working with a variety of technologies and services. I love building things and am always looking for new technologies to learn and apply to my projects. 💻
 
-I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-profit organization that encourages and inspires women to learn programming. 🌸
-
-### 🎉 AWS Community Builder  
-[![AWS Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-orange)](https://aws.amazon.com/developer/community/community-builders/)
+I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-profit organization that encourages and inspires women to learn programming. 
 
 ## 🚀 Skills
 
