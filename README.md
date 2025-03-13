@@ -18,6 +18,8 @@ I'm a software developer specializing in TypeScript/JavaScript and have experien
 
 I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-profit organization that encourages and inspires women to learn programming. 🌸
 
+### 🎉 AWS Community Builder  
+[![AWS Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-orange)](https://aws.amazon.com/developer/community/community-builders/)
 
 ## 🚀 Skills
 
