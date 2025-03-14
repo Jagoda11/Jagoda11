@@ -5,6 +5,7 @@
 <meta name="google-site-verification" content="wlylwHoxsmZWdVpyKDboagjUdrnQbXuU7segWX_0A7k">
  <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
 [![AWS Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-orange)](https://aws.amazon.com/developer/community/community-builders/)
+![GitHub Dev Program Member](https://img.shields.io/badge/GitHub%20Dev%20Program%20Member-Yellow?style=flat&logo=github)
 
 ## 🌸  Let's Start with a Smile!
 
