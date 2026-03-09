@@ -37,11 +37,11 @@ If you value the impact of my work and wish to amplify its reach, consider joini
 
 ## Latest Medium Posts ✍️
 <!-- BLOG-POST-LIST:START -->
+- [Who Really Reads  Your Code, And Why It Matters?](https://code.likeagirl.io/who-really-reads-your-code-and-why-it-matters-83f4e77a0327?source=rss-ec5f6d09b0e4------2)
 - [Fed Up With ChatGPT Forgetting Your Rules? Here’s How I Saved Hours Every Week](https://code.likeagirl.io/fed-up-with-chatgpt-forgetting-your-rules-heres-how-i-saved-hours-every-week-e99f695bff1a?source=rss-ec5f6d09b0e4------2)
 - [The Chronicles of Sam: 10,000 Hours to Say “Hi” Automatically](https://javascript.plainenglish.io/the-chronicles-of-sam-10-000-hours-to-say-hi-automatically-5f2f984bdc4f?source=rss-ec5f6d09b0e4------2)
 - [The Quickest Way to Authenticate GitHub API &lpar;Without a Backend&rpar;](https://code.likeagirl.io/the-quickest-way-to-authenticate-github-api-without-a-backend-4b230e85b652?source=rss-ec5f6d09b0e4------2)
 - [The Chronicles of Sam: Finally Letting Go of Custom Login Hell with AWS Cognito ☁️](https://javascript.plainenglish.io/the-chronicles-of-sam-finally-letting-go-of-custom-login-hell-with-aws-cognito-%EF%B8%8F-644473433624?source=rss-ec5f6d09b0e4------2)
-- [How to Backup and Share Your VS Code Extensions in Minutes](https://code.likeagirl.io/how-to-backup-and-share-your-vs-code-extensions-in-minutes-a40b004848e4?source=rss-ec5f6d09b0e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to reach me
