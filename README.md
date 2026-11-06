@@ -16,7 +16,7 @@
 
 <img align="right" width="150" height="150" src="Octocats.gif" alt="gif of the various Octocats">
 
-I'm a software developer specializing in TypeScript/JavaScript and have experience working with a variety of technologies and services. I love building things and am always looking for new technologies to learn and apply to my projects. 💻
+I'm a Full-Stack Software Developer specializing in TypeScript and JavaScript, with experience in modern web applications, AWS cloud technologies, and platform engineering. I enjoy building scalable solutions, automating development workflows, and exploring Agentic AI, LLM-powered tools, and multi-agent orchestration to improve developer productivity. 💻🤖
 
 I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-profit organization that encourages and inspires women to learn programming. 
 
@@ -26,9 +26,11 @@ I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-
 - Front-end: Angular, React, Vue, HTML, CSS (Bootstrap 5) 🎨
 - Back-end: Node.js 🖥️
 - Testing: Jest, Mocha, Lighthouse, Playwright, BrowserStack🧪
+- Platform Engineering: CI/CD, developer tooling, automation, observability ⚙️
 - Version Control: GitHub, GitHub Actions, GitLab, Bitbucket 🔄
 - Cloud Services: AWS (Route 53, CloudFront, CloudFormation, EC2, DynamoDB) ☁️
 - Infrastructure as Code 🏗️
+- Agentic AI & LLM Tooling: Claude, Codex, GitHub Copilot, multi-agent orchestration, AI-assisted development 🤖
 
 
 ## 💖 Support
