@@ -5,7 +5,9 @@
 <meta name="google-site-verification" content="wlylwHoxsmZWdVpyKDboagjUdrnQbXuU7segWX_0A7k">
  <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
 [![AWS Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-orange)](https://aws.amazon.com/developer/community/community-builders/)
-![GitHub Dev Program Member](https://img.shields.io/badge/GitHub%20Dev%20Program%20Member-%A9C47F?style=flat&logo=github)
+
+
+[![GitHub Developer Program Member](https://img.shields.io/badge/GitHub-Developer%20Program%20Member-24292F?style=flat&logo=github&logoColor=white)](https://docs.github.com/en/integrations/concepts/github-developer-program)
 
 
 
