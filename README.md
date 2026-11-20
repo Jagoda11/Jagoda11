@@ -7,6 +7,17 @@
 [![AWS Community Builder](https://img.shields.io/badge/AWS-Community%20Builder-orange)](https://aws.amazon.com/developer/community/community-builders/)
 ![GitHub Dev Program Member](https://img.shields.io/badge/GitHub%20Dev%20Program%20Member-%A9C47F?style=flat&logo=github)
 
+
+<a href="https://aws.amazon.com/developer/community/community-builders/">
+  <img
+    src="https://raw.githubusercontent.com/Jagoda11/Jagoda11/main/Community%20Builders%20badge%20800px.png"
+    alt="AWS Community Builder"
+    width="90"
+  />
+</a>
+
+
+
 ## 🌸  Let's Start with a Smile!
 
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ficanhazdadjoke.com%2F&query=%24..joke&label=Joke&labelColor=ff69b4&color=87cefa" alt="random joke">
@@ -19,6 +30,8 @@
 I'm a Full-Stack Software Developer specializing in TypeScript and JavaScript, with experience in modern web applications, AWS cloud technologies, and platform engineering. I enjoy building scalable solutions, automating development workflows, and exploring Agentic AI, LLM-powered tools, and multi-agent orchestration to improve developer productivity. 💻🤖
 
 I also volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-profit organization that encourages and inspires women to learn programming. 
+
+
 
 ## 🚀 Skills
 
