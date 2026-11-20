@@ -8,13 +8,24 @@
 ![GitHub Dev Program Member](https://img.shields.io/badge/GitHub%20Dev%20Program%20Member-%A9C47F?style=flat&logo=github)
 
 
-<a href="https://aws.amazon.com/developer/community/community-builders/">
-  <img
-    src="https://raw.githubusercontent.com/Jagoda11/Jagoda11/main/Community%20Builders%20badge%20800px.png"
-    alt="AWS Community Builder"
-    width="90"
-  />
-</a>
+
+<p align="left">
+  <a href="https://aws.amazon.com/developer/community/community-builders/">
+    <img
+      src="https://raw.githubusercontent.com/Jagoda11/Jagoda11/main/Community%20Builders%20badge%20800px.png"
+      alt="AWS Community Builder"
+      width="90"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://aws.amazon.com/developer/community/usergroups/">
+    <img
+      src="https://raw.githubusercontent.com/Jagoda11/Jagoda11/main/AWS%20User%20Group%20Leader%20Badge.png"
+      alt="AWS User Group Leader"
+      width="90"
+    />
+  </a>
+</p>
 
 
 
